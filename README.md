@@ -22,12 +22,12 @@ This Python script uses Openpyxl to process Excel data, perform analysis, and cr
 ## Usage
 1. Place your input Excel file (named 'sample_data.xlsx') in the same directory as the script.
 2. Run the script:
-3. The script will generate a new file named 'formatted_processed_data.xlsx' with the processed and formatted data.
+3. The script will generate a new file named 'processed_data.xlsx' with the processed and formatted data.
 
 ## File Structure
 - `excel_processor.py`: Main Python script
 - `sample_data.xlsx`: Input Excel file (required)
-- `formatted_processed_data.xlsx`: Output Excel file (generated)
+- `processed_data.xlsx`: Output Excel file (generated)
 
 ## Functions
 - `apply_formatting(ws)`: Applies styling to a worksheet
